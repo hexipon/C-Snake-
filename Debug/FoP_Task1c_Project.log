@@ -1,0 +1,10 @@
+﻿  FoP_Task1c_SKELETON.cpp
+c:\users\hexip\documents\projects\c++snakegame\fop_task1c_skeleton.cpp(93): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+c:\users\hexip\documents\projects\c++snakegame\fop_task1c_skeleton.cpp(95): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\hexip\documents\projects\c++snakegame\fop_task1c_skeleton.cpp(615): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\hexip\documents\projects\c++snakegame\fop_task1c_skeleton.cpp(624): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+c:\users\hexip\documents\projects\c++snakegame\fop_task1c_skeleton.cpp(722): warning C4018: '<': signed/unsigned mismatch
+c:\users\hexip\documents\projects\c++snakegame\fop_task1c_skeleton.cpp(732): warning C4018: '<': signed/unsigned mismatch
+c:\users\hexip\documents\projects\c++snakegame\fop_task1c_skeleton.cpp(1012): warning C4018: '<': signed/unsigned mismatch
+c:\users\hexip\documents\projects\c++snakegame\fop_task1c_skeleton.cpp(1019): warning C4018: '<': signed/unsigned mismatch
+  FoP_Task1c_Project.vcxproj -> C:\Users\hexip\Documents\Projects\C++SnakeGame\Debug\FoP_Task1c_Project.exe
